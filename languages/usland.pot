@@ -1,0 +1,614 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Usland\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-24 12:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: usland"
+
+#: header.php:81 template-parts/content-menu-one.php:60
+msgid " Appearance -> Menus"
+msgstr ""
+
+#: inc/joi-helper-functions.php:93
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+#: inc/joi-redux-config.php:591 inc/joi-redux-config.php:678
+msgid "1 Column"
+msgstr ""
+
+#: inc/joi-redux-config.php:592 inc/joi-redux-config.php:679
+msgid "2 Columns"
+msgstr ""
+
+#: inc/joi-redux-config.php:593 inc/joi-redux-config.php:680
+msgid "3 Columns"
+msgstr ""
+
+#: inc/joi-redux-config.php:720
+msgid "404"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:84
+msgid "About Company"
+msgstr ""
+
+#: inc/joi-redux-config.php:211 inc/widgets/contact-widget.php:114
+msgid "Address"
+msgstr ""
+
+#: inc/joi-redux-config.php:750
+msgid "Advanced"
+msgstr ""
+
+#: template-parts/content-banner.php:16
+msgid "All Posts"
+msgstr ""
+
+#: inc/joi-redux-config.php:318
+msgid "Ask For Quote Button Text"
+msgstr ""
+
+#: inc/joi-redux-config.php:325
+msgid "Ask For Quote Button URL"
+msgstr ""
+
+#: inc/joi-redux-config.php:308
+msgid "Ask For Quote Enable / Disable"
+msgstr ""
+
+#: inc/joi-redux-config.php:117
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/joi-redux-config.php:525
+msgid "Background Color"
+msgstr ""
+
+#: inc/joi-redux-config.php:526
+msgid "Background Image"
+msgstr ""
+
+#: inc/joi-redux-config.php:506
+msgid "Banner"
+msgstr ""
+
+#: inc/joi-redux-config.php:543
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/joi-redux-config.php:534
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/joi-redux-config.php:523
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/joi-redux-config.php:559
+msgid "Banner Padding Bottom"
+msgstr ""
+
+#: inc/joi-redux-config.php:552
+msgid "Banner Padding Top"
+msgstr ""
+
+#: inc/joi-redux-config.php:602
+msgid "Blog / Property / Team / Archive"
+msgstr ""
+
+#: inc/joi-redux-config.php:356
+msgid "Body"
+msgstr ""
+
+#: inc/joi-redux-config.php:719
+msgid "Body Text 1"
+msgstr ""
+
+#: inc/joi-redux-config.php:725
+msgid "Body Text 2"
+msgstr ""
+
+#: inc/joi-redux-config.php:731
+msgid "Body Text 3"
+msgstr ""
+
+#: inc/joi-redux-config.php:514
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/joi-redux-config.php:737
+msgid "Button Text"
+msgstr ""
+
+#: template-parts/content-single.php:14 inc/widgets/recent-posts-widget.php:43
+msgid "By"
+msgstr ""
+
+#: inc/widgets/category-widget.php:39
+msgid "Categories"
+msgstr ""
+
+#: template-parts/content-single-property.php:143
+msgid "Category: "
+msgstr ""
+
+#: inc/joi-redux-config.php:589 inc/joi-redux-config.php:676
+msgid "Column Per Page"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment"
+msgstr ""
+
+#: comments.php:68
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:12
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/widgets/contact-widget.php:85 inc/widgets/contact-widget.php:106
+msgid "Company Logo"
+msgstr ""
+
+#: inc/joi-vc-settings.php:14
+msgid "Content Maximum Width"
+msgstr ""
+
+#: inc/joi-redux-config.php:499
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: inc/joi-redux-config.php:492
+msgid "Content Padding Top"
+msgstr ""
+
+#: inc/joi-redux-config.php:342
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/joi-redux-config.php:758
+msgid "Custom CSS"
+msgstr ""
+
+#: template-parts/content-single.php:17
+msgid "Date"
+msgstr ""
+
+#: inc/joi-helper-functions.php:155
+msgid "Default"
+msgstr ""
+
+#: inc/joi-redux-config.php:119 inc/joi-redux-config.php:204
+#: inc/joi-redux-config.php:302 inc/joi-redux-config.php:311
+#: inc/joi-redux-config.php:508 inc/joi-redux-config.php:516
+msgid "Disabled"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:103
+msgid "Display post date?"
+msgstr ""
+
+#: comments.php:61 inc/joi-redux-config.php:223
+#: inc/widgets/contact-widget.php:122
+msgid "Email"
+msgstr ""
+
+#: inc/joi-redux-config.php:118 inc/joi-redux-config.php:203
+#: inc/joi-redux-config.php:301 inc/joi-redux-config.php:310
+#: inc/joi-redux-config.php:507 inc/joi-redux-config.php:515
+msgid "Enabled"
+msgstr ""
+
+#: inc/joi-redux-config.php:714
+msgid "Error 404"
+msgstr ""
+
+#: inc/joi-redux-config.php:701
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/joi-redux-config.php:742
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/joi-redux-config.php:230 inc/widgets/contact-widget.php:130
+msgid "Facebook"
+msgstr ""
+
+#: inc/joi-general.php:40 inc/joi-redux-config.php:334
+#: inc/widgets/widget-settings.php:38
+msgid "Footer"
+msgstr ""
+
+#: inc/joi-redux-config.php:484
+msgid "Full Width"
+msgstr ""
+
+#: inc/joi-redux-config.php:95
+msgid "General"
+msgstr ""
+
+#: inc/joi-redux-config.php:738
+msgid "Go to Home Page"
+msgstr ""
+
+#: inc/joi-scripts.php:4
+msgctxt "Google fonts - Open Sans and Roboto : on or off"
+msgid "on"
+msgstr ""
+
+#: inc/joi-redux-config.php:146
+msgid "Header"
+msgstr ""
+
+#: inc/joi-redux-config.php:373
+msgid "Header h1"
+msgstr ""
+
+#: inc/joi-redux-config.php:390
+msgid "Header h2"
+msgstr ""
+
+#: inc/joi-redux-config.php:407
+msgid "Header h3"
+msgstr ""
+
+#: inc/joi-redux-config.php:424
+msgid "Header h4"
+msgstr ""
+
+#: inc/joi-redux-config.php:441
+msgid "Header h5"
+msgstr ""
+
+#: inc/joi-redux-config.php:458
+msgid "Header h6"
+msgstr ""
+
+#: inc/joi-redux-config.php:170
+msgid "Header Style"
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo-wp.themehurst.me/usland/01/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themehurst.me/"
+msgstr ""
+
+#: inc/joi-redux-config.php:196
+msgid "If you want to hide any field simply keep it empty"
+msgstr ""
+
+#: inc/joi-redux-config.php:260 inc/widgets/contact-widget.php:146
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#: template-parts/content-property-none.php:15
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/joi-redux-config.php:481
+msgid "Layout"
+msgstr ""
+
+#: inc/joi-redux-config.php:568
+msgid "Layout Defaults"
+msgstr ""
+
+#: inc/joi-redux-config.php:483
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/joi-redux-config.php:242 inc/widgets/contact-widget.php:138
+msgid "Linkedin"
+msgstr ""
+
+#: inc/joi-redux-config.php:154
+msgid "Logo"
+msgstr ""
+
+#: inc/joi-redux-config.php:268
+msgid "Main Menu"
+msgstr ""
+
+#: inc/joi-redux-config.php:284
+msgid "Menu Font"
+msgstr ""
+
+#: comments.php:58
+msgid "Name"
+msgstr ""
+
+#: comments.php:40
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content-none.php:3 template-parts/content-property-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:99
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/joi-redux-config.php:278
+msgid "Off"
+msgstr ""
+
+#: comments.php:39
+msgid "Older Comments"
+msgstr ""
+
+#: inc/joi-redux-config.php:277
+msgid "On"
+msgstr ""
+
+#: inc/joi-redux-config.php:577
+msgid "Page"
+msgstr ""
+
+#: inc/joi-redux-config.php:726
+msgid "Page not Found"
+msgstr ""
+
+#: inc/joi-redux-config.php:713
+msgid "Page Title"
+msgstr ""
+
+#: inc/joi-redux-config.php:759
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: inc/joi-redux-config.php:217 inc/widgets/contact-widget.php:118
+msgid "Phone"
+msgstr ""
+
+#: inc/joi-redux-config.php:254 inc/widgets/contact-widget.php:142
+msgid "Pinterest"
+msgstr ""
+
+#: inc/joi-redux-config.php:612
+msgid "Post Single"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:82
+msgid "Post Type:"
+msgstr ""
+
+#: inc/joi-redux-config.php:135
+msgid "Preloader gif/svg"
+msgstr ""
+
+#: inc/joi-redux-config.php:128
+msgid "Preloader No"
+msgstr ""
+
+#: inc/joi-redux-config.php:125
+msgid "Preloader Type"
+msgstr ""
+
+#: inc/joi-redux-config.php:127
+msgid "Preloader Yes"
+msgstr ""
+
+#: inc/joi-general.php:39
+msgid "Primary"
+msgstr ""
+
+#: inc/joi-redux-config.php:104
+msgid "Primary Color"
+msgstr ""
+
+#: header.php:80 template-parts/content-menu-one.php:59
+msgid "Primary navigation menu is missing. Add one from "
+msgstr ""
+
+#: inc/joi-redux-config.php:638
+msgid "Property Single"
+msgstr ""
+
+#: template-parts/content-search.php:22
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:8 template-parts/content-property-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:15
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/joi-redux-config.php:629
+msgid "Related Property Title"
+msgstr ""
+
+#: comments.php:30
+msgid "Reply"
+msgstr ""
+
+#: inc/joi-redux-config.php:485
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/joi-redux-config.php:300
+msgid "Search Icon"
+msgstr ""
+
+#: inc/joi-redux-config.php:689
+msgid "Search Layout"
+msgstr ""
+
+#: template-parts/content-banner.php:9
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/joi-redux-config.php:111
+msgid "Secondery Color"
+msgstr ""
+
+#: inc/joi-helper-functions.php:128
+msgid "Select a Team Member"
+msgstr ""
+
+#: inc/widgets/widget-settings.php:30
+msgid "Sidebar"
+msgstr ""
+
+#: inc/joi-redux-config.php:623 inc/joi-redux-config.php:649
+msgid "Slug"
+msgstr ""
+
+#: template-parts/content-none.php:12
+#: template-parts/content-property-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/joi-redux-config.php:276
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/joi-redux-config.php:655
+msgid "Submitted Property Title"
+msgstr ""
+
+#: template-parts/content-single.php:31 inc/widgets/tags-widget.php:12
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-single-property.php:135
+msgid "Tags: "
+msgstr ""
+
+#: inc/joi-redux-config.php:664
+msgid "Team Single"
+msgstr ""
+
+#: inc/joi-redux-config.php:732
+msgid ""
+"The page you are looking is not available or has been removed. Try going to "
+"Home Page by using the button below."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeHurst"
+msgstr ""
+
+#: inc/widgets/category-widget.php:45 inc/widgets/contact-widget.php:102
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:73 inc/widgets/tags-widget.php:30
+msgid "Title:"
+msgstr ""
+
+#: inc/joi-redux-config.php:201
+msgid "Top Bar Enable / Disable"
+msgstr ""
+
+#: inc/joi-redux-config.php:194
+msgid "Top Bar Section"
+msgstr ""
+
+#: inc/joi-redux-config.php:236 inc/widgets/contact-widget.php:134
+msgid "Twitter"
+msgstr ""
+
+#: inc/joi-redux-config.php:349
+msgid "Typography"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:110
+msgid "URL"
+msgstr ""
+
+#. Name of the theme
+msgid "Usland"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Usland - Land, Home, Store Selling or Rent Multipurpose WordPress Theme. It "
+"is fully responsive for all kind of devices like Desktop &amp; Mobile."
+msgstr ""
+
+#: inc/joi-redux-config.php:24 inc/joi-redux-config.php:25
+msgid "Usland Options"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/category-widget.php:6
+msgid "Usland: Categories"
+msgstr ""
+
+#: inc/widgets/category-widget.php:7
+msgid "Usland: Categories Widget"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:6
+msgid "Usland: Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:7
+msgid "Usland: Contact Info Widget"
+msgstr ""
+
+#: inc/widgets/tags-widget.php:6
+msgid "Usland: Post Tags"
+msgstr ""
+
+#: inc/widgets/tags-widget.php:7
+msgid "Usland: Post Tags Widget"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:6
+msgid "Usland: Recent Post"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget.php:7
+msgid "Usland: Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/contact-widget.php:126
+msgid "Working Hours"
+msgstr ""
+
+#: inc/joi-helper-functions.php:96
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/widgets/contact-widget.php:150
+msgid "YouTube"
+msgstr ""
+
+#: inc/joi-redux-config.php:248
+msgid "Youtube"
+msgstr ""
